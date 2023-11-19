@@ -36,4 +36,5 @@ Its responsive
 If you love this please star this to support me!
 
 Made by [notawake](https://notawake.xyz)
+
 Made with ❤️
