@@ -52,7 +52,8 @@
 
 .about-me p {
     background-color: transparent;
-    text-align: center;
+    text-align: justify;
+    padding: 0 55px 0;
 }
 
 @media (max-width: 1080px) {
